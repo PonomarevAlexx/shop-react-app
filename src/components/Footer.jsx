@@ -8,7 +8,6 @@ export default function Footer() {
                         className="grey-text text-lighten-4 right"
                         href="https://github.com/PonomarevAlexx/shop-react-app"
                         target="_blank"
-                        rel="noreferrer"
                     >
                         Repo
                     </a>
