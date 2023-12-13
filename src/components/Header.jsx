@@ -7,7 +7,9 @@ export default function Header() {
                 </a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li>
-                        <a href="sass.html">Repo</a>
+                        <a href="https://github.com/PonomarevAlexx/shop-react-app" target="_blank" rel="noreferrer">
+                            Repo
+                        </a>
                     </li>
                 </ul>
             </div>
